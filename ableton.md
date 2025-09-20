@@ -123,22 +123,22 @@ This manual covers everything from basic music theory to creating complete track
 
 ### ✅ Understanding the Ableton Interface
 - [ ] **Main Views**: Session View vs Arrangement View (toggle with Tab key)
-  - *Reference*: [Ableton Live Views Explained](https://help.ableton.com/hc/en-us/articles/209070329-Live-s-Views)
+  - *Reference*: [Live Concepts Manual](https://www.ableton.com/en/manual/live-concepts/)
 - [ ] **Channel Types**: MIDI channels (for instruments) vs Audio channels (for audio files)
-  - *Reference*: [MIDI vs Audio Tracks](https://help.ableton.com/hc/en-us/articles/209070849-Creating-new-tracks)
+  - *Reference*: [Live Manual - First Steps](https://www.ableton.com/en/live-manual/12/first-steps/)
 - [ ] **Return Channels**: For effects sends
-  - *Reference*: [Using Return Tracks](https://help.ableton.com/hc/en-us/articles/209070569-Using-Return-Tracks)
+  - *Reference*: [Live Manual - Session View](https://www.ableton.com/en/manual/session-view/)
 - [ ] **Master/Main Channel**: Controls overall output
 - [ ] **Mixer View**: Access with dedicated button or shortcut
 - [ ] **Browser**: Left panel for sounds, samples, and instruments
-  - *Reference*: [Browser Overview](https://help.ableton.com/hc/en-us/articles/209070669-Live-s-Browser)
+  - *Reference*: [Live 12 Browser Guide](https://help.ableton.com/hc/en-us/articles/12927340213660-The-Live-12-Browser)
 
 ### ✅ Essential Navigation
 - [ ] **Zoom**: Mouse wheel or zoom controls
 - [ ] **Grid Settings**: Narrow (dynamic) vs Fixed grid options
 - [ ] **Transport Controls**: Play, stop, record buttons
 - [ ] **Tempo Control**: BPM adjustment (typically 120-125 for house music)
-  - *Reference*: [Transport and Recording](https://help.ableton.com/hc/en-us/articles/209070509-Transport-and-Recording)
+  - *Reference*: [Navigation and View Options FAQ](https://help.ableton.com/hc/en-us/articles/12243771208092-Navigation-and-View-Options-in-Live-12-FAQ)
 
 ---
 
@@ -179,34 +179,31 @@ This manual covers everything from basic music theory to creating complete track
 
 ### ✅ MIDI Basics
 - [ ] **Creating MIDI Tracks**: Right-click → Insert MIDI Track (Ctrl+Shift+T)
-  - *Reference*: [Working with MIDI](https://help.ableton.com/hc/en-us/articles/209070849-Creating-new-tracks)
+  - *Reference*: [Live Manual - First Steps](https://www.ableton.com/en/live-manual/12/first-steps/)
 - [ ] **MIDI Clips**: Right-click → Insert Empty MIDI Clip (Ctrl+Shift+M)
-  - *Reference*: [MIDI Clip Basics](https://help.ableton.com/hc/en-us/articles/209070829-Working-with-MIDI-clips)
+  - *Reference*: [Live Manual - Session View](https://www.ableton.com/en/manual/session-view/)
 - [ ] **Note Placement**: Double-click to add notes
 - [ ] **Note Editing**: Drag to move, resize for length
-  - *Reference*: [MIDI Editor](https://help.ableton.com/hc/en-us/articles/209071069-The-MIDI-Editor)
+  - *Reference*: [Learn Live 12 Videos - Editing MIDI Notes](https://help.ableton.com/hc/en-us/articles/12934450470812-Learn-Live-12-Videos)
 - [ ] **Velocity**: How hard notes are played (affects volume/brightness)
-  - *Reference*: [MIDI Velocity](https://help.ableton.com/hc/en-us/articles/209071149-Velocity)
 
 ### ✅ Essential Instruments
 - [ ] **Grand Piano**: Basic acoustic piano sound
 - [ ] **Electric Piano**: Vintage electric piano sounds
 - [ ] **Wavetable**: Advanced synthesizer for sound design
-  - *Reference*: [Wavetable Manual](https://help.ableton.com/hc/en-us/articles/360000038859-Wavetable)
+  - *Reference*: [Live Instrument Reference - Wavetable](https://www.ableton.com/en/manual/live-instrument-reference/)
 - [ ] **Analog**: Classic analog synthesizer
-  - *Reference*: [Analog Manual](https://help.ableton.com/hc/en-us/articles/360000038859-Analog)
+  - *Reference*: [Live Instrument Reference - Analog](https://www.ableton.com/en/manual/live-instrument-reference/)
 - [ ] **Operator**: FM synthesis
-  - *Reference*: [Operator Manual](https://help.ableton.com/hc/en-us/articles/209072289-Operator)
+  - *Reference*: [Live Instrument Reference - Operator](https://www.ableton.com/en/manual/live-instrument-reference/)
 
 ### ✅ Note Input and Editing
 - [ ] **Highlight Scale**: Visual aid for staying in key
-  - *Reference*: [Scale Highlighting](https://help.ableton.com/hc/en-us/articles/4407803618450-Scale-awareness-in-Live-12)
+  - *Reference*: [Learn Live 12 Videos - Keys and Scales](https://help.ableton.com/hc/en-us/articles/12934450470812-Learn-Live-12-Videos)
 - [ ] **Scale Mode**: Restricts notes to selected scale
 - [ ] **Quantization**: Ctrl+U to snap notes to grid
-  - *Reference*: [Quantization](https://help.ableton.com/hc/en-us/articles/209071229-Quantizing-MIDI-notes-and-audio)
 - [ ] **Legato**: Makes notes touch each other
 - [ ] **Humanize**: Adds natural timing variations
-  - *Reference*: [Humanize Function](https://help.ableton.com/hc/en-us/articles/4407803601810-Humanize-in-Live-12)
 - [ ] **Velocity Randomization**: Adds natural volume variations
 
 ---
@@ -238,14 +235,14 @@ This manual covers everything from basic music theory to creating complete track
 
 ### ✅ Synthesizer Basics
 - [ ] **Oscillators**: Generate basic waveforms
-  - *Reference*: [Synthesis Basics](https://learningsynths.ableton.com/)
+  - *Reference*: [Learning Synths - Oscillators](https://learningsynths.ableton.com/oscillators/waveforms)
 - [ ] **Waveforms**: Sine (pure), Triangle (soft), Saw (bright), Square (hollow)
-  - *Reference*: [Waveform Types](https://learningsynths.ableton.com/oscillators/waveforms)
+  - *Reference*: [Learning Synths - Waveforms](https://learningsynths.ableton.com/oscillators/waveforms)
 - [ ] **Filters**: Shape frequency content
   - Low-pass: Cuts high frequencies
   - High-pass: Cuts low frequencies
   - Band-pass: Allows middle frequencies only
-  - *Reference*: [Filter Types](https://learningsynths.ableton.com/filters/filter-types)
+  - *Reference*: [Learning Synths - Filters](https://learningsynths.ableton.com/filters/filter-types)
 
 ### ✅ Envelopes (ADSR)
 - [ ] **Attack**: Time to reach maximum volume
@@ -253,11 +250,11 @@ This manual covers everything from basic music theory to creating complete track
 - [ ] **Sustain**: Level held while key is pressed
 - [ ] **Release**: Time to silence after key release
 - [ ] **Envelope Routing**: Controlling different parameters (volume, filter, pitch)
-  - *Reference*: [Envelopes Explained](https://learningsynths.ableton.com/envelopes/envelope-adsr)
+  - *Reference*: [Learning Synths - Envelopes](https://learningsynths.ableton.com/envelopes/envelope-adsr)
 
 ### ✅ Modulation
 - [ ] **LFOs**: Low Frequency Oscillators for movement
-  - *Reference*: [LFO Basics](https://learningsynths.ableton.com/lfos/lfos-rate-and-shape)
+  - *Reference*: [Learning Synths - LFOs](https://learningsynths.ableton.com/lfos/lfos-rate-and-shape)
 - [ ] **LFO Shapes**: Sine, triangle, square, random
 - [ ] **LFO Destinations**: Filter, volume, pan, pitch
 - [ ] **Matrix Routing**: Connecting modulators to parameters
@@ -268,7 +265,7 @@ This manual covers everything from basic music theory to creating complete track
 - [ ] **Detuning**: Slight pitch differences for width
 - [ ] **Polyphonic vs Monophonic**: Multiple notes vs single note
 - [ ] **FM Synthesis**: Using one oscillator to modulate another
-  - *Reference*: [FM Synthesis Guide](https://www.soundonsound.com/techniques/introduction-fm)
+  - *Reference*: [Live Instrument Reference - Operator](https://www.ableton.com/en/manual/live-instrument-reference/)
 
 ---
 
@@ -318,24 +315,33 @@ This manual covers everything from basic music theory to creating complete track
 
 ### ✅ Basic Drum Patterns
 - [ ] **Kick Drum**: Usually on 1 and 3 (quarter notes)
+  - *Reference*: [Live Manual - Recording New Clips](https://www.ableton.com/en/manual/recording-new-clips/)
 - [ ] **Clap/Snare**: On 2 and 4 (backbeat)
 - [ ] **Hi-hats**: 
   - Closed: 16th notes for drive
   - Open: Off-beats for groove
+  - *Reference*: [House Beat Programming](https://blog.landr.com/house-music-drums/)
 - [ ] **Percussion**: Shakers, tambourines for texture
+  - *Reference*: [Drum Programming Guide](https://blog.landr.com/drum-programming/)
 
 ### ✅ Advanced Drum Techniques
 - [ ] **Velocity Programming**: Vary hit strength for groove
+  - *Reference*: [Live Manual - Session View](https://www.ableton.com/en/manual/session-view/)
 - [ ] **Random Pan**: Spread hi-hats across stereo field
 - [ ] **Layering**: Multiple samples for fuller sound
+  - *Reference*: [Sound Layering Techniques](https://blog.landr.com/sound-layering/)
 - [ ] **Groove Templates**: Apply swing and timing
+  - *Reference*: [Live Manual - Working with Audio](https://www.ableton.com/en/manual/working-with-audio/)
 - [ ] **Fills**: Drum breaks for transitions
+  - *Reference*: [Drum Fill Programming](https://blog.landr.com/drum-fills/)
 
 ### ✅ African/Afro House Specific
 - [ ] **Congas/Bongos**: Essential percussion elements
 - [ ] **Complex Rhythms**: Polyrhythmic patterns
+  - *Reference*: [Polyrhythm Basics](https://www.masterclass.com/articles/polyrhythm-guide)
 - [ ] **Organic Samples**: Live-recorded percussion loops
 - [ ] **Pitched Percussion**: Tuned to match song key
+  - *Reference*: [African Musical Concepts](https://www.world-music-central.org/2019/01/18/african-rhythms/)
 
 ---
 
@@ -347,20 +353,30 @@ This manual covers everything from basic music theory to creating complete track
 - [ ] **Breakdown**: Reduced elements, often focused on melody
 - [ ] **Build-up**: Tension before next drop
 - [ ] **Outro**: Gradual fade-out
+  - *Reference*: [Song Structure Guide](https://www.musicradar.com/how-to/how-to-structure-a-song)
 
 ### ✅ Arrangement Techniques
 - [ ] **Locators**: Mark song sections for navigation
+  - *Reference*: [Live Manual - Arrangement View](https://www.ableton.com/en/manual/arrangement-view/)
 - [ ] **Loop Braces**: Define looping sections in clips
+  - *Reference*: [Live Manual - Session View](https://www.ableton.com/en/manual/session-view/)
 - [ ] **Clip Launching**: Trigger clips in Session View
+  - *Reference*: [Live Concepts Manual](https://www.ableton.com/en/manual/live-concepts/)
 - [ ] **Scene Organization**: Group clips for easy arrangement
 - [ ] **Consolidation**: Ctrl+J to merge clips
+  - *Reference*: [Live Manual - Arrangement View](https://www.ableton.com/en/manual/arrangement-view/)
 
 ### ✅ Dynamic Arrangement
 - [ ] **Filter Automation**: Create movement and interest
+  - *Reference*: [Live Audio Effect Reference](https://www.ableton.com/en/manual/live-audio-effect-reference/)
 - [ ] **Volume Automation**: Shape dynamics
+  - *Reference*: [Live Manual - Arrangement View](https://www.ableton.com/en/manual/arrangement-view/)
 - [ ] **Effect Automation**: Automate delay, reverb sends
+  - *Reference*: [Live Audio Effect Reference](https://www.ableton.com/en/manual/live-audio-effect-reference/)
 - [ ] **Build Techniques**: Add elements progressively
+  - *Reference*: [Electronic Music Arrangement](https://blog.landr.com/electronic-music-arrangement/)
 - [ ] **Breakdown Creation**: Strip back to essentials
+  - *Reference*: [Dance Music Structure](https://blog.landr.com/dance-music-structure/)
 
 ---
 
@@ -420,21 +436,31 @@ This manual covers everything from basic music theory to creating complete track
 
 ### ✅ Basic Mixing Concepts
 - [ ] **Frequency Separation**: Each element in its own space
+  - *Reference*: [Mixing Basics Guide](https://blog.landr.com/mixing-101/)
 - [ ] **Panning**: Stereo placement for width
+  - *Reference*: [Stereo Imaging Guide](https://www.izotope.com/en/learn/stereo-imaging.html)
 - [ ] **Volume Balance**: Relative levels between elements
 - [ ] **Dynamic Range**: Contrast between loud and quiet parts
+  - *Reference*: [Dynamic Range in Mixing](https://blog.landr.com/dynamic-range/)
 
 ### ✅ EQ Strategies
 - [ ] **High-pass Filtering**: Remove unnecessary low end
+  - *Reference*: [High-Pass Filtering](https://www.izotope.com/en/learn/high-pass-filter.html)
 - [ ] **Frequency Conflicts**: Identify and resolve clashing elements
+  - *Reference*: [EQ Techniques](https://www.izotope.com/en/learn/the-basics-of-eq.html)
 - [ ] **Boosting vs Cutting**: When to add vs remove frequencies
+  - *Reference*: [EQ Cutting vs Boosting](https://blog.landr.com/eq-cutting-vs-boosting/)
 - [ ] **Shelving vs Peak**: Different EQ curve types
+  - *Reference*: [Live Audio Effect Reference - EQ Eight](https://www.ableton.com/en/manual/live-audio-effect-reference/)
 
 ### ✅ Compression Techniques
 - [ ] **Glue Compression**: Subtle compression for cohesion
+  - *Reference*: [Glue Compression Guide](https://blog.landr.com/glue-compression/)
 - [ ] **Individual vs Bus**: Track vs group compression
 - [ ] **Parallel Compression**: Blend compressed and dry signals
+  - *Reference*: [Parallel Compression Guide](https://www.izotope.com/en/learn/audio-compression-basics.html)
 - [ ] **Multiband Compression**: Frequency-specific compression
+  - *Reference*: [Multiband Compression](https://www.izotope.com/en/learn/multiband-compression.html)
 
 ---
 
@@ -464,19 +490,19 @@ This manual covers everything from basic music theory to creating complete track
 
 ### ✅ Master Chain Processing
 - [ ] **EQ on Master**: Gentle overall tonal shaping
-  - *Reference*: [Mastering EQ Techniques](https://www.izotope.com/en/learn/mastering-eq-guide.html)
+  - *Reference*: [Live Audio Effect Reference - EQ Eight](https://www.ableton.com/en/manual/live-audio-effect-reference/)
 - [ ] **Compression**: Light glue compression
-  - *Reference*: [Mastering Compression](https://www.izotope.com/en/learn/mastering-compression.html)
+  - *Reference*: [Live Audio Effect Reference - Compressor](https://www.ableton.com/en/manual/live-audio-effect-reference/)
 - [ ] **Saturation**: Add harmonic richness
-  - *Reference*: [Saturation in Mastering](https://blog.landr.com/saturation-mastering/)
+  - *Reference*: [Live Audio Effect Reference - Saturator](https://www.ableton.com/en/manual/live-audio-effect-reference/)
 - [ ] **Limiting**: Final volume control
-  - *Reference*: [Limiter Manual](https://help.ableton.com/hc/en-us/articles/209071869-Limiter)
+  - *Reference*: [Live Audio Effect Reference - Limiter](https://www.ableton.com/en/manual/live-audio-effect-reference/)
 
 ### ✅ Limiting and Loudness
 - [ ] **Limiter Setup**: Prevent clipping while maximizing volume
 - [ ] **Gain Reduction**: Monitor limiting amount
 - [ ] **LUFS Metering**: Modern loudness standards (-7 to -14 LUFS)
-  - *Reference*: [LUFS and Streaming](https://www.masteringthemix.com/blogs/learn/76296773-lufs-how-to-master-to-streaming-platforms)
+  - *Reference*: [LUFS and Streaming Standards](https://www.masteringthemix.com/blogs/learn/76296773-lufs-how-to-master-to-streaming-platforms)
 - [ ] **A/B Comparison**: Compare to reference tracks
   - *Reference*: [Reference Track Usage](https://www.izotope.com/en/learn/using-reference-tracks-when-mixing-and-mastering.html)
 
@@ -491,24 +517,24 @@ This manual covers everything from basic music theory to creating complete track
   - *Reference*: [Multiband Processing](https://www.izotope.com/en/learn/multiband-compression.html)
 - [ ] **Modulation Chains**: Complex movement patterns
 - [ ] **Happy Accidents**: Experiment with unexpected settings
-  - *Reference*: [Creative Production Tips](https://blog.ableton.com/creative-techniques/)
+  - *Reference*: [Live Manual - Live Instrument Reference](https://www.ableton.com/en/manual/live-instrument-reference/)
 
 ### ✅ Arrangement Creativity
 - [ ] **Ear Candy**: Small details that add interest
-  - *Reference*: [Adding Texture to Tracks](https://www.attackmagazine.com/technique/tutorials/ear-candy/)
+  - *Reference*: [Adding Texture to Tracks](https://blog.landr.com/texture-in-music/)
 - [ ] **Transition Effects**: Sweeps, impacts, risers
   - *Reference*: [Transition Techniques](https://blog.landr.com/transition-effects/)
 - [ ] **Reverse Techniques**: Create anticipation and flow
-  - *Reference*: [Reverse Audio Effects](https://www.soundonsound.com/techniques/reverse-audio-effects)
+  - *Reference*: [Live Manual - Working with Audio](https://www.ableton.com/en/manual/working-with-audio/)
 - [ ] **Rhythmic Variations**: Keep patterns interesting
 
 ### ✅ Sampling and Manipulation
 - [ ] **Granular Techniques**: Texture and Grain modes
-  - *Reference*: [Granular Synthesis](https://help.ableton.com/hc/en-us/articles/4407803607570-Granulator-III-in-Live-12)
+  - *Reference*: [Live Audio Effect Reference - Granulator III](https://www.ableton.com/en/manual/live-audio-effect-reference/)
 - [ ] **Pitch Shifting**: Creative resampling
 - [ ] **Time Stretching**: Dramatic tempo changes
 - [ ] **Slice to MIDI**: Chop breaks and samples
-  - *Reference*: [Slice to MIDI Tutorial](https://help.ableton.com/hc/en-us/articles/209070849-Slice-to-MIDI)
+  - *Reference*: [Live Manual - Working with Audio](https://www.ableton.com/en/manual/working-with-audio/)
 
 ---
 
